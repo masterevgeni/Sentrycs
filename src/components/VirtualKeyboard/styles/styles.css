@@ -1,0 +1,10 @@
+.keyboard-row{
+    display:flex; 
+    justify-content: center;
+    margin-bottom: 1;
+} 
+
+.keyboard{
+     max-width: 500;
+      margin: 0 auto;
+}

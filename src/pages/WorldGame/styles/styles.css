@@ -1,0 +1,38 @@
+.paper {
+    padding: 40px;
+    border-radius: 3px;
+}
+
+.label {
+    font-weight: bold;
+    background: linear-gradient(45deg, #2196F3 30%, #21CBF3 90%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 3;
+}
+
+.letters {
+    display: flex;
+    justify-content: center;
+    gap: 1;
+    margin-bottom: 15px;
+}
+
+.play-button-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.play-button {
+    padding: 10px 20px;
+    border: none;
+    color: white !important;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 50px;
+}
